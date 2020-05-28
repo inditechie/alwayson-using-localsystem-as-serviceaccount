@@ -10,7 +10,7 @@ Info:
 By:
 	Ghufran Khan
 	FB: https://www.facebook.com/GhufranKhan89
-	Youtube: https://youtu.be/ryRTTyGDcfA
+	Youtube: https://bit.ly/36DQ87d
 	GitHub: https://github.com/inditechie/alwayson-using-localsystem-as-serviceaccount
 */
  
